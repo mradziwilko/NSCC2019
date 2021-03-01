@@ -1,0 +1,14 @@
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\bin\Debug\Exercises.exe
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\bin\Debug\Exercises.pdb
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\obj\Debug\Exercises.exe
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises b\Exercises\obj\Debug\Exercises.pdb
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\bin\Debug\Exercises.exe
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\bin\Debug\Exercises.pdb
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\obj\Debug\Exercises.exe
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C#\Assignment 2\Chapter 9\Exercises 2\Exercises\obj\Debug\Exercises.pdb

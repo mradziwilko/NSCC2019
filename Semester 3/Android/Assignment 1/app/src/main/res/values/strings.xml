@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert">Convert</string>
+    <string name="your_name">Your Name:</string>
+    <string name="converted_to_fahrenheit">Converted to Fahrenheit:</string>
+    <string name="temprature_in_celcius">Temprature in Celcius:</string>
+    <string name="ErrYourName">You did not enter your name</string>
+</resources>

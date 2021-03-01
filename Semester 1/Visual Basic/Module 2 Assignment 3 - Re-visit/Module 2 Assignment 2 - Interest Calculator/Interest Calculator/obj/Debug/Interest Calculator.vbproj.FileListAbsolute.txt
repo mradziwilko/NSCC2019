@@ -1,0 +1,10 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Modul 2 Assignment 3 - Re-visit\Module 2 Assignment 2 - Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb

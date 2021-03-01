@@ -1,0 +1,2 @@
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C++\Assignment 2\LinkedList\Debug\LinkedList.exe
+C:\Users\MRadz\OneDrive - Nova Scotia Community College\Semester 4\C++\Assignment 2\LinkedList\Debug\LinkedList.pdb

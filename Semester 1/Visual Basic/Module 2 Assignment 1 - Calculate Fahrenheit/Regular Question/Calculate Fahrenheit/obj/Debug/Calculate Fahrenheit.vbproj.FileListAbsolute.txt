@@ -1,0 +1,10 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\bin\Debug\Calculate Fahrenheit.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\bin\Debug\Calculate Fahrenheit.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\bin\Debug\Calculate Fahrenheit.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\bin\Debug\Calculate Fahrenheit.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\obj\Debug\Calculate Fahrenheit.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\obj\Debug\Calculate_Fahrenheit.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\obj\Debug\Calculate Fahrenheit.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\obj\Debug\Calculate Fahrenheit.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\obj\Debug\Calculate Fahrenheit.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Calculate Fahrenheit\Calculate Fahrenheit\obj\Debug\Calculate Fahrenheit.pdb

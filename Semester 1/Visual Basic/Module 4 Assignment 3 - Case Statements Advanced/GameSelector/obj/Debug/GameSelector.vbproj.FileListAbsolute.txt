@@ -1,0 +1,21 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\GameSelector\GameSelector\bin\Debug\GameSelector.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\bin\Debug\GameSelector.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\bin\Debug\GameSelector.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\bin\Debug\GameSelector.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\bin\Debug\GameSelector.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\obj\Debug\GameSelector.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\obj\Debug\GameSelector.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\obj\Debug\GameSelector.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\obj\Debug\GameSelector.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\obj\Debug\GameSelector.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements\GameSelector\obj\Debug\GameSelector.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\bin\Debug\GameSelector.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\obj\Debug\GameSelector.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\obj\Debug\GameSelector.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\obj\Debug\GameSelector.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\bin\Debug\GameSelector.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\bin\Debug\GameSelector.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\bin\Debug\GameSelector.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\obj\Debug\GameSelector.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\obj\Debug\GameSelector.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 3 - Case Statements Advanced\GameSelector\obj\Debug\GameSelector.vbproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.exe.config
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.exe
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.pdb
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.xml
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.vbprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.vbproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.exe
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.xml
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\Console\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.vbproj.GenerateResource.Cache

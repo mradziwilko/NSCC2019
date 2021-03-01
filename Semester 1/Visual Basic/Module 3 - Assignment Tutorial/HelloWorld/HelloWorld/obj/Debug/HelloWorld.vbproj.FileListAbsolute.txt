@@ -1,0 +1,11 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

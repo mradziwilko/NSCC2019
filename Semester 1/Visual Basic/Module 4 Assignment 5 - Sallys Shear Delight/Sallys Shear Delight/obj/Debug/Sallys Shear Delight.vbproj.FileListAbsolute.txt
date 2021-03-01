@@ -1,0 +1,10 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\bin\Debug\Sallys Shear Delight.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\bin\Debug\Sallys Shear Delight.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\bin\Debug\Sallys Shear Delight.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\bin\Debug\Sallys Shear Delight.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\obj\Debug\Sallys_Shear_Delight.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\obj\Debug\Sallys Shear Delight.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\obj\Debug\Sallys Shear Delight.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\obj\Debug\Sallys Shear Delight.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\obj\Debug\Sallys Shear Delight.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Sallys Shear Delight\Sallys Shear Delight\obj\Debug\Sallys Shear Delight.vbprojResolveAssemblyReference.cache

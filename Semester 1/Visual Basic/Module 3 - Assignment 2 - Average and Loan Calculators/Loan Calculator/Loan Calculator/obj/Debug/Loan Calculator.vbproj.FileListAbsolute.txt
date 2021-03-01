@@ -1,0 +1,14 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\obj\Debug\Loan_Calculator.Form1.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\obj\Debug\Loan_Calculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.pdb

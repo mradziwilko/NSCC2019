@@ -1,0 +1,9 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\bin\Debug\Average Calculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\bin\Debug\Average Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\bin\Debug\Average Calculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\bin\Debug\Average Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\obj\Debug\Average_Calculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\obj\Debug\Average Calculator.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\obj\Debug\Average Calculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\obj\Debug\Average Calculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\personal\Average Calculator\Average Calculator\obj\Debug\Average Calculator.pdb

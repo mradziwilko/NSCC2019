@@ -1,0 +1,11 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Data Types\Data Types\bin\Debug\Data Types.exe.config
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\bin\Debug\Data Types.exe.config
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\bin\Debug\Data Types.exe
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\bin\Debug\Data Types.pdb
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\bin\Debug\Data Types.xml
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\obj\Debug\Data Types.vbprojAssemblyReference.cache
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\obj\Debug\Data_Types.Resources.resources
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\obj\Debug\Data Types.vbproj.GenerateResource.cache
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\obj\Debug\Data Types.exe
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\obj\Debug\Data Types.xml
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 Assignment 1 - Data Types\Data Types\Data Types\obj\Debug\Data Types.pdb

@@ -1,0 +1,64 @@
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.Form1.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.vbproj.GenerateResource.Cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 3 - Assignment 2 - Average and Loan Calculators\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.frmMain.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.frmMain.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbproj.GenerateResource.Cache
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.xml
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.frmMain.resources
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.Resources.resources
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbproj.GenerateResource.cache
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.xml
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.xml
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbprojAssemblyReference.cache
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.frmMain.resources
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.Resources.resources
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbproj.GenerateResource.cache
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.xml
+F:\MRadz\Onedrive\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 1 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\bin\Debug\AverageCalculator.xml
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.frmMain.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.Resources.resources
+C:\Users\w0256451\OneDrive - Nova Scotia Community College\Programming\Assignments\Module 4 Assignment 2 - Average Calculator\Average Calculator\AverageCalculator\obj\Debug\AverageCalculator.vbproj.GenerateResource.Cache
