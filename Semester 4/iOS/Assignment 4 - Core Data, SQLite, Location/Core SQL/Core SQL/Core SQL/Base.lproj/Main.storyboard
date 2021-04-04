@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Core_SQL" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mms-Ql-2rd">
+                                <rect key="frame" x="64.5" y="438" width="285" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="285" id="WzX-Bk-yT4"/>
+                                    <constraint firstAttribute="height" constant="30" id="lZv-vW-t3f"/>
+                                </constraints>
+                                <state key="normal" title="Save / Fetch"/>
+                                <connections>
+                                    <action selector="btnSaveFetch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ASz-We-IWW"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No Entry Detected." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ycr-uk-d3O">
+                                <rect key="frame" x="48" y="688" width="318" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="CXt-Zj-Get"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="318" id="Q62-Qj-rr0"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Please enter a Value." textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Hhh-5m-pDd">
+                                <rect key="frame" x="48" y="366" width="318" height="34"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="34" id="tGC-k9-t73"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="318" id="uX9-Xw-bVh"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="Ycr-uk-d3O" firstAttribute="top" secondItem="Mms-Ql-2rd" secondAttribute="bottom" constant="220" id="1ng-Ov-bmz"/>
+                            <constraint firstItem="Hhh-5m-pDd" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="PMw-1E-BfQ"/>
+                            <constraint firstItem="Mms-Ql-2rd" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="Yrd-2V-axE"/>
+                            <constraint firstItem="Ycr-uk-d3O" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="g4x-rl-wHR"/>
+                            <constraint firstItem="Mms-Ql-2rd" firstAttribute="top" secondItem="Hhh-5m-pDd" secondAttribute="bottom" constant="38" id="iHQ-5C-2xq"/>
+                            <constraint firstItem="Mms-Ql-2rd" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="ts0-q1-GRq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="inpValue" destination="Hhh-5m-pDd" id="bNL-l1-1uW"/>
+                        <outlet property="txtOutput" destination="Ycr-uk-d3O" id="5jN-CR-FPQ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="138.61607142857142"/>
+        </scene>
+    </scenes>
+</document>

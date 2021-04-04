@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Core_Data" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ti7-RB-TxE">
+                                <rect key="frame" x="156" y="438" width="102" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="VIO-Dk-ZBo"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="102" id="yzh-9w-ZeG"/>
+                                </constraints>
+                                <state key="normal" title="Save / Retreive"/>
+                                <connections>
+                                    <action selector="btnSaveRet:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PCC-ab-jz0"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Please type entry to Database here." textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="G1q-Lc-4ee">
+                                <rect key="frame" x="22.5" y="385" width="365" height="34"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="34" id="6YZ-Hx-w8u"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="365" id="q29-he-5gy"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nothing Entered." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yQg-hk-zxO">
+                                <rect key="frame" x="22.5" y="685" width="369" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="gNC-ix-vwj"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="369" id="mTJ-K6-zWe"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="G1q-Lc-4ee" secondAttribute="trailing" constant="26.5" id="1O9-iE-fIA"/>
+                            <constraint firstItem="yQg-hk-zxO" firstAttribute="top" secondItem="ti7-RB-TxE" secondAttribute="bottom" constant="217" id="1P9-0l-XfS"/>
+                            <constraint firstItem="ti7-RB-TxE" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="1SP-Fn-h4q"/>
+                            <constraint firstItem="yQg-hk-zxO" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="exB-4R-CaB"/>
+                            <constraint firstItem="ti7-RB-TxE" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="fq9-Id-Ua2"/>
+                            <constraint firstItem="ti7-RB-TxE" firstAttribute="top" secondItem="G1q-Lc-4ee" secondAttribute="bottom" constant="19" id="kRC-vB-vzA"/>
+                            <constraint firstItem="G1q-Lc-4ee" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="yQg-hk-zxO" secondAttribute="leading" id="vgl-Es-HNN"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="inpInfo" destination="G1q-Lc-4ee" id="rts-96-Jyd"/>
+                        <outlet property="txtInfo" destination="yQg-hk-zxO" id="VFK-fd-5qF"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="138.61607142857142"/>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Location" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Mb-p8-PaG">
+                                <rect key="frame" x="118" y="438" width="178" height="30"/>
+                                <color key="backgroundColor" systemColor="secondaryLabelColor" red="0.23529411759999999" green="0.23529411759999999" blue="0.26274509800000001" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="178" id="8Am-9Y-WTT"/>
+                                    <constraint firstAttribute="height" constant="30" id="B7P-mV-AmJ"/>
+                                </constraints>
+                                <state key="normal" title="Get Coords">
+                                    <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="btnGetCoords:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NqC-7A-2tP"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Latitude" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xwg-iD-7zo">
+                                <rect key="frame" x="175.5" y="285" width="63" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Longitude" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nrI-9d-AWc">
+                                <rect key="frame" x="168.5" y="341" width="77" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E4Y-bp-Ahj">
+                                <rect key="frame" x="20" y="370" width="354" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="354" id="OWP-l0-W2Z"/>
+                                    <constraint firstAttribute="height" constant="60" id="vzt-EC-IXi"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="2Mb-p8-PaG" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="8fX-nO-YYu"/>
+                            <constraint firstItem="2Mb-p8-PaG" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="DL8-Ke-SRv"/>
+                            <constraint firstItem="nrI-9d-AWc" firstAttribute="top" secondItem="Xwg-iD-7zo" secondAttribute="bottom" constant="35" id="H3h-3d-RyV"/>
+                            <constraint firstItem="2Mb-p8-PaG" firstAttribute="top" secondItem="nrI-9d-AWc" secondAttribute="bottom" constant="76" id="LJq-Kp-l3H"/>
+                            <constraint firstItem="nrI-9d-AWc" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="mGJ-Qa-oVe"/>
+                            <constraint firstItem="2Mb-p8-PaG" firstAttribute="top" secondItem="E4Y-bp-Ahj" secondAttribute="bottom" constant="8" id="nGi-Kv-Xdj"/>
+                            <constraint firstItem="Xwg-iD-7zo" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="urz-95-cfL"/>
+                            <constraint firstItem="E4Y-bp-Ahj" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="ytp-YX-dcL"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="Precision" destination="E4Y-bp-Ahj" id="eeU-Yc-byE"/>
+                        <outlet property="txtLat" destination="Xwg-iD-7zo" id="QIc-nc-KBy"/>
+                        <outlet property="txtLong" destination="nrI-9d-AWc" id="nyz-Wm-3lA"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="138.61607142857142"/>
+        </scene>
+    </scenes>
+</document>
